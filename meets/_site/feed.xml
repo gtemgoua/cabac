@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cabac - back to life</title>
+    <description>The Cameroonian Brotherhood Association of Chicago, was founded in 1997 in Chicago. In an act of consciousness of many plagues endured in Africa and a firm resolution not to stand by and do nothing. CABAC was incorporated in the State of Illinois in 2002 and granted the 501 c3 tax status in 2006</description>
+    <link>http://cabac.org/</link>
+    <atom:link href="http://cabac.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 12 Aug 2014 15:04:08 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2014 15:04:08 -0500</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Welcome to Cabac!</title>
+        <description>&lt;p&gt;This Blog is your one stop for all the information related to Cabac meetings and locations as well as driving information and if we are kind enough post meeting pictures.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://www.cabac.org&quot;&gt;Previous website&lt;/a&gt; for more info on how painfull this migration process will be.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Aug 2014 09:28:22 -0500</pubDate>
+        <link>http://cabac.org/cabac/meets/update/2014/08/12/welcome-to-cabac/</link>
+        <guid isPermaLink="true">http://cabac.org/cabac/meets/update/2014/08/12/welcome-to-cabac/</guid>
+        
+        
+        <category>cabac</category>
+        
+        <category>meets</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
