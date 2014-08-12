@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 12 Aug 2014 15:59:03 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2014 15:59:03 -0500</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Welcome to Cabac!</title>
+        <description>&lt;p&gt;This Blog is your one stop for all the information related to Cabac meetings and locations as well as driving information and if we are kind enough post meeting pictures.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://www.cabac.org&quot;&gt;Previous website&lt;/a&gt; for more info on how painfull this migration process will be.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Aug 2014 09:28:22 -0500</pubDate>
+        <link>/meets/cabac/update/2014/08/12/welcome-to-cabac.html</link>
+        <guid isPermaLink="true">/meets/cabac/update/2014/08/12/welcome-to-cabac.html</guid>
+        
+        
+        <category>meets</category>
+        
+        <category>cabac</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
